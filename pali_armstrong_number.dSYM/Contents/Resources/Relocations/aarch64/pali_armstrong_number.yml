@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/aaronshrestha/Desktop/cprogramming/pali_armstrong_number'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _ispali, symObjAddr: 0x0, symBinAddr: 0x100003C68, symSize: 0x84 }
+  - { offset: 0x41, size: 0x8, addend: 0x0, symName: _ispali, symObjAddr: 0x0, symBinAddr: 0x100003C68, symSize: 0x84 }
+  - { offset: 0x93, size: 0x8, addend: 0x0, symName: _isarm, symObjAddr: 0x84, symBinAddr: 0x100003CEC, symSize: 0x10C }
+  - { offset: 0xF3, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x190, symBinAddr: 0x100003DF8, symSize: 0xF4 }
+...
